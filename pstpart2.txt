@@ -1,0 +1,9 @@
+write a program to display a digits of given number
+write a program to find the sum of digits of given number
+write a program to display the number in the reverse order
+write a program to find a palindrome of a given number
+write a program to print a given pattern
+1
+2 2 
+3 3 3
+4 4 4 4
