@@ -5,10 +5,10 @@ int main(){
     char str[100];
     char wel[]="Welcome to VS Code";
     
-    printf("%s\n", wel);
+    printf("At compile time: %s\n", wel);
     printf("Enter a string: ");
     fgets(str, sizeof(str), stdin);
-    printf("The string is: %s", str);
+    printf("At run time The string is: %s", str);
     
     return 0;
 }
